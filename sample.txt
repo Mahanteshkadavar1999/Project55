@@ -1,9 +1,5 @@
 module1
 module2
 module3
-<<<<<<< HEAD
 module4module5
 module6
-=======
-module4
->>>>>>> parent of facf932 (fifth)
